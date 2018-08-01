@@ -1,5 +1,7 @@
 # Jamiry Rosiely de Mesquita 
+
 # Resumo 
+
 # Conceitos Fundamentais de Projetos 
 
 De acordo com o texto lido Projeto é um esforço temporário empreendido para criar um produto ,serviço ou resultado inédito.
@@ -12,7 +14,7 @@ A relação existente entre escopo , cronograma , orçamento, recursos e risco o
 provavel que pelo menos um desses fatores seja afetado.
 Não podemos esquecer ainda das partes interessadas no projeto que podem ser pessoas ou organizações que também podem vir a ser afetadas 
 de forma negativa com o término do projeto.  
-# Analise das partes interessadas no Projeto 
+# Análise das partes interessadas no Projeto 
 Consiste na identificação dos interessados e do modo como esses irão influenciar no Projeto. E pode ser utilizada para :
 obter os requisitos a serem atendidos , dessa forma irá diminuir as solicitações de mudanças, identificar conflitos entre os 
 envolvidos que possam vir à interferir o Projeto .Desenvolver estratégias para melhoria e desempenho . 
