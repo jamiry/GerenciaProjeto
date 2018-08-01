@@ -1,6 +1,6 @@
-#Jamiry Rosiely de Mesquita 
-#Resumo 
-#Conceitos Fundamentais de Projetos 
+# Jamiry Rosiely de Mesquita 
+# Resumo 
+# Conceitos Fundamentais de Projetos 
 
 De acordo com o texto lido Projeto é um esforço temporário empreendido para criar um produto ,serviço ou resultado inédito.
 Pode ainda ser definido como um conjunto de planos e esboços que mostram cada etapa  de um processo a serem executadas e demostram
@@ -12,11 +12,11 @@ A relação existente entre escopo , cronograma , orçamento, recursos e risco o
 provavel que pelo menos um desses fatores seja afetado.
 Não podemos esquecer ainda das partes interessadas no projeto que podem ser pessoas ou organizações que também podem vir a ser afetadas 
 de forma negativa com o término do projeto.  
-#Analise das partes interessadas no Projeto 
+# Analise das partes interessadas no Projeto 
 Consiste na identificação dos interessados e do modo como esses irão influenciar no Projeto. E pode ser utilizada para :
 obter os requisitos a serem atendidos , dessa forma irá diminuir as solicitações de mudanças, identificar conflitos entre os 
 envolvidos que possam vir à interferir o Projeto .Desenvolver estratégias para melhoria e desempenho . 
-#Causa de Fracasso 
+# Causa de Fracasso 
 As principais causas de Fracasso são :
 O não cumprimento dos prazos;
 Problemas de comunicação ;
@@ -26,7 +26,7 @@ Riscos avaliados de forma errada ;
 Mudanças de prioridade;
 Retrabalho ;
 Falta de organização e Planejamento .
-#Causas de Sucesso 
+# Causas de Sucesso 
 Disciplina e rigor ao excutar a metodologia para gerenciar projeto ;
 Definição clara dos objetivos ;
 Especificação detalhada dos passos e ações para implantação do projeto ;
